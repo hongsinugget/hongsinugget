@@ -18,5 +18,5 @@
 
 ## 📩 Let's Connect
 
-<a href="https://hongsinugget.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
+<a href="https://velog.io/@hongsinugget/posts" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
 <a href="mailto:yangsubindev@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=yangsubindev@gmail.com"/></a>
