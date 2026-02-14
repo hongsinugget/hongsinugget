@@ -15,6 +15,7 @@
 <img src="https://img.shields.io/badge/css-663399?style=flat-square&logo=css&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/></a>
 
+![오늘의 코딩운세](https://raw.githubusercontent.com/hongsinugget/github-luck-clover/main/fortune.svg)
 
 ## 📩 Let's Connect
 
