@@ -12,7 +12,7 @@
 * **Journey:** 2년 차 그래픽 디자이너 → 퍼포먼스 마케터 → **현재 FE 준비 중**
 
 ## 🛠 Tech Stack
-<img alt="html5" src ="https://img.shields.io/badge/html5-E34F26.svg?&style=flat-square&logo=html5&logoColor=white"/><img alt="css" src ="https://img.shields.io/badge/css-663399.svg?&style=flat-square&logo=css&logoColor=white"/><img alt="javascript" src ="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black"/><img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/><img alt="figma" src ="https://img.shields.io/badge/figma-F24E1E.svg?&style=flat-square&logo=figma&logoColor=white"/>
+<img alt="html5" src ="https://img.shields.io/badge/html5-E34F26.svg?&style=flat-square&logo=html5&logoColor=white"/> <img alt="css" src ="https://img.shields.io/badge/css-663399.svg?&style=flat-square&logo=css&logoColor=white"/> <img alt="javascript" src ="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black"/> <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/> <img alt="figma" src ="https://img.shields.io/badge/figma-F24E1E.svg?&style=flat-square&logo=figma&logoColor=white"/>
 
 ## 🏆 Activities & Experience
 * **진행 중:** 데이콘(DACON) 월간 해커톤 참가 중
