@@ -14,12 +14,6 @@
 ## 🛠 Tech Stack
 <img alt="html5" src ="https://img.shields.io/badge/html5-E34F26.svg?&style=flat-square&logo=html5&logoColor=white"/> <img alt="css" src ="https://img.shields.io/badge/css-663399.svg?&style=flat-square&logo=css&logoColor=white"/> <img alt="javascript" src ="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black"/> <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/> <img alt="figma" src ="https://img.shields.io/badge/figma-F24E1E.svg?&style=flat-square&logo=figma&logoColor=white"/>
 
-## 🏆 Activities & Experience
-* **진행 중:** 데이콘(DACON) 월간 해커톤 참가 중
-* **2026.03:** 카카오 AI TOP 100 캠퍼스 대회 참가
-* **2026.02:** Tableau 30기 부트캠프 수료 (질의응답 3위)
-* **2025:** 패스트캠퍼스 AI 커리어핏 최우수 장학생 선정 / Tableau Data + Movies 대회 참가
-
 ![오늘의 코딩운세](https://raw.githubusercontent.com/hongsinugget/github-luck-clover/main/fortune.svg)
 
 ## 📩 Let's Connect
