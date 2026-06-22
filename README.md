@@ -11,6 +11,10 @@
 * **Education:** 한국방송통신대학교 컴퓨터과학과 재학 (26.03~ing)
 * **Journey:** 2년 차 그래픽 디자이너 → 퍼포먼스 마케터 → **개발 공부중**
 
+## Experiences
+- **2026.04.25** Dacon Vibe Coding 긴급 인수 해커톤 **1위** 
+- **2026.05 ~ 현재** Code for Korea Organizer
+
 ## 🛠 Tech Stack
 <img alt="html5" src ="https://img.shields.io/badge/html5-E34F26.svg?&style=flat-square&logo=html5&logoColor=white"/> <img alt="css" src ="https://img.shields.io/badge/css-663399.svg?&style=flat-square&logo=css&logoColor=white"/> <img alt="javascript" src ="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black"/> <img alt="Python" src ="https://img.shields.io/badge/jquery-0769AD.svg?&style=flat-square&logo=jquery&logoColor=white"/> <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/> <img alt="figma" src ="https://img.shields.io/badge/figma-F24E1E.svg?&style=flat-square&logo=figma&logoColor=white"/>
 
